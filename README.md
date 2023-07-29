@@ -14,6 +14,7 @@
 To get the experiment results by running the script command_optimal.py
 
 ## Citation
+Xiaosong Wang, Guojun Chen, Hang Hu, Min Zhang, and Zhenyu Yue*, PDDGCN: A parasitic disease-drug association predictor based on multi-view fusion graph convolutional network, 2023, Submitted.
 
 ## Requirements
 numpy 1.18.0
