@@ -33,4 +33,4 @@ python 3.7.1
 
 ## Contact
 
-Please feel free to contact us if you need any help: xiaosongwang@ahau.edu.cn
+Please feel free to contact us if you need any help: zhenyuyue@ahau.edu.cn
