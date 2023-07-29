@@ -13,6 +13,8 @@
 
 To get the experiment results by running the script command_optimal.py
 
+## Citation
+
 ## Requirements
 numpy 1.18.0
 
